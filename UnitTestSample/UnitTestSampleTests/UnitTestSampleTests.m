@@ -90,6 +90,11 @@ static NSInteger const kTime = 5;
                          returnValue,
                          @"Should have returned the expected string.");
 }
+
+// OCMock and Async
+// --------------------------
+// now being explored.
+// --------------------------
 /*
 - (void)test_OCMock_countWithNumber_Pass_Async
 {
@@ -102,7 +107,7 @@ static NSInteger const kTime = 5;
     [self performSelector:@selector(verifyMockSelector:)
                withObject:nil
                afterDelay:kInterval];
-}*/
+}
 
 - (void)test_OCMock_countByTime_Pass_Async
 {
@@ -119,7 +124,7 @@ static NSInteger const kTime = 5;
     [self performSelector:@selector(verifyMockSelector:)
                withObject:nil
                afterDelay:11];
-}
+}*/
 
 - (void)test_mock_default
 {
@@ -137,7 +142,8 @@ static NSInteger const kTime = 5;
     [self performSelector:@selector(myOtherSelector:)
                withObject:kAsyncInvalid
                afterDelay:kDelay];
-    //sleep(6);
+    
+    //sleep(6); // this is not worked
 }
 
 - (void)test_Selector_Pass_Async
