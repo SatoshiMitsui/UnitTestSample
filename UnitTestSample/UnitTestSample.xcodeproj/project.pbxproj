@@ -355,6 +355,7 @@
 					"-ftest-coverage",
 				);
 				SDKROOT = iphoneos;
+				TEST_AFTER_BUILD = NO;
 			};
 			name = Debug;
 		};
@@ -380,6 +381,7 @@
 					"-ftest-coverage",
 				);
 				SDKROOT = iphoneos;
+				TEST_AFTER_BUILD = NO;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -397,6 +399,7 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				TEST_AFTER_BUILD = NO;
 			};
 			name = Debug;
 		};
@@ -413,6 +416,7 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				TEST_AFTER_BUILD = NO;
 			};
 			name = Release;
 		};
@@ -437,6 +441,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_AFTER_BUILD = YES;
 				WRAPPER_EXTENSION = octest;
 			};
 			name = Debug;
@@ -462,6 +467,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_AFTER_BUILD = YES;
 				WRAPPER_EXTENSION = octest;
 			};
 			name = Release;

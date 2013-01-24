@@ -1,0 +1,111 @@
+TUnitTestSample
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/UnitTestSample-Prefix-etnpvckuirnmskeevzkioarbjrdq/UnitTestSample-Prefix.pch.pth UnitTestSample/UnitTestSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/Objects-normal/i386/UnitTestSample.o /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/UnitTestSample/UnitTestSample.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/Debug-iphonesimulator/libUnitTestSample.a normal i386
+cPBXCp UnitTestSample/UnitTestSample.h build/Debug-iphonesimulator/include/UnitTestSample/UnitTestSample.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050EE343200000000003DCEF0
+t1357788210
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050EE343100000000000015F7
+t1357788209
+s5623
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/UnitTestSample/UnitTestSample-Prefix.pch
+c0000000050EE8E5900000000000000A9
+t1357811289
+s169
+i<Foundation/Foundation.h>
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/UnitTestSample/UnitTestSample.h
+c0000000050F8EAF5000000000000027A
+t1358490357
+s634
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/UnitTestSample/UnitTestSample.m
+c0000000050F8EB3700000000000005EF
+t1358490423
+s1519
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/Debug-iphonesimulator/include/UnitTestSample/UnitTestSample.h
+t1358926705
+s634
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/Debug-iphonesimulator/libUnitTestSample.a
+t2
+s0
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/Objects-normal/i386/UnitTestSample.LinkFileList
+c0000000050FF938E00000000000000AD
+t1358926734
+s173
+
+N/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/Objects-normal/i386/UnitTestSample.o
+t2
+s0
+
+N/var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/UnitTestSample-Prefix-etnpvckuirnmskeevzkioarbjrdq/UnitTestSample-Prefix.pch.pth
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesbc96840ecbafb641^3a5a890ecbafb641^---0#1#0#--18"Check dependencies36"0799F2DE-C3CC-4357-9B00-0FB85A946DFD-
+
+CCompileC build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/Objects-normal/i386/UnitTestSample.o /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/UnitTestSample/UnitTestSample.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380619534.843412
+e380619534.895273
+r1
+xCompileC
+xbuild/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/Objects-normal/i386/UnitTestSample.o
+x/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/UnitTestSample/UnitTestSample.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/UnitTestSample/UnitTestSample.me21dd80ecbafb641^9831e50ecbafb641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/UnitTestSample/UnitTestSample.m0000000000000000^4226"CompileC build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/Objects-normal/i386/UnitTestSample.o UnitTestSample/UnitTestSample.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -fprofile-arcs -ftest-coverage -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/UnitTestSample-generated-files.hmap -I/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/UnitTestSample-own-target-headers.hmap -I/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/UnitTestSample-all-target-headers.hmap -iquote /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/UnitTestSample-project-headers.hmap -I/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/DerivedSources/i386 -I/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/DerivedSources -F/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/Debug-iphonesimulator -fprofile-arcs -ftest-coverage -include /var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/UnitTestSample-Prefix-etnpvckuirnmskeevzkioarbjrdq/UnitTestSample-Prefix.pch -MMD -MT dependencies -MF /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/Objects-normal/i386/UnitTestSample.d --serialize-diagnostics /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/Objects-normal/i386/UnitTestSample.dia -c /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/UnitTestSample/UnitTestSample.m -o /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/Objects-normal/i386/UnitTestSample.o36"1988D2AD-6BCB-4B1B-A729-C0145526822A-
+
+CLibtool /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/Debug-iphonesimulator/libUnitTestSample.a normal i386
+s380619534.901703
+e380619534.910672
+r1
+xLibtool
+x/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/Debug-iphonesimulator/libUnitTestSample.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Libtool build/Debug-iphonesimulator/libUnitTestSample.a normal i386c901e70ecbafb641^be30e90ecbafb641^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1220"Libtool build/Debug-iphonesimulator/libUnitTestSample.a normal i386    cd /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/Debug-iphonesimulator -L/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/Libraries -filelist /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/Objects-normal/i386/UnitTestSample.LinkFileList -ObjC -framework Foundation -o /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/Debug-iphonesimulator/libUnitTestSample.a36"43D92468-6505-4332-B7CA-81064F0F11BB-
+
+CPBXCp UnitTestSample/UnitTestSample.h build/Debug-iphonesimulator/include/UnitTestSample/UnitTestSample.h
+s380619505.680102
+e380619505.684933
+r1
+xPBXCp
+xUnitTestSample/UnitTestSample.h
+xbuild/Debug-iphonesimulator/include/UnitTestSample/UnitTestSample.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug-iphonesimulator/include/UnitTestSample/UnitTestSample.he739aef1caafb641^6e6baff1caafb641^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/Debug-iphonesimulator/include/UnitTestSample/UnitTestSample.h000000000080d041^779"PBXCp UnitTestSample/UnitTestSample.h build/Debug-iphonesimulator/include/UnitTestSample/UnitTestSample.h    cd /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/UnitTestSample/UnitTestSample.h /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/Debug-iphonesimulator/include/UnitTestSample36"0A52DC4B-376E-4054-8953-54B7920AACFA-
+
+CProcessPCH /var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/UnitTestSample-Prefix-etnpvckuirnmskeevzkioarbjrdq/UnitTestSample-Prefix.pch.pth UnitTestSample/UnitTestSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380619534.539244
+e380619534.835116
+r1
+xProcessPCH
+x/var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/UnitTestSample-Prefix-etnpvckuirnmskeevzkioarbjrdq/UnitTestSample-Prefix.pch.pth
+xUnitTestSample/UnitTestSample-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile UnitTestSample/UnitTestSample-Prefix.pchc3498a0ecbafb641^7ac7d50ecbafb641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/UnitTestSample/UnitTestSample-Prefix.pch0000000000000000^4143"ProcessPCH /var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/UnitTestSample-Prefix-etnpvckuirnmskeevzkioarbjrdq/UnitTestSample-Prefix.pch.pth UnitTestSample/UnitTestSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -fprofile-arcs -ftest-coverage -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/UnitTestSample-generated-files.hmap -I/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/UnitTestSample-own-target-headers.hmap -I/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/UnitTestSample-all-target-headers.hmap -iquote /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/UnitTestSample-project-headers.hmap -I/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/DerivedSources/i386 -I/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/UnitTestSample.build/Debug-iphonesimulator/UnitTestSample.build/DerivedSources -F/Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/build/Debug-iphonesimulator -fprofile-arcs -ftest-coverage --serialize-diagnostics /var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/UnitTestSample-Prefix-etnpvckuirnmskeevzkioarbjrdq/UnitTestSample-Prefix.pch.dia -c /Users/mitsui/Desktop/Alpha_0/sample/Git/my_github/UnitTestSample/UnitTestSample/UnitTestSample-Prefix.pch -o /var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/UnitTestSample-Prefix-etnpvckuirnmskeevzkioarbjrdq/UnitTestSample-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/k3/423fqj9j18l4z_hg8rgpb79h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/UnitTestSample-Prefix-etnpvckuirnmskeevzkioarbjrdq/UnitTestSample-Prefix.pch.d36"71E7898A-A7E2-4813-B7FA-81ECA3BA675C-
+
