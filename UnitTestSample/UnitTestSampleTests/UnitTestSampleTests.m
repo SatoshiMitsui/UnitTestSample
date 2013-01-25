@@ -185,11 +185,11 @@ static NSInteger const kTime = 5;
     [_mock verify];
     STSuccess();
 }
-/*
+
 - (void)myOtherSelector:(NSString* )value
 {
     STAssertEqualObjects(value, kAsyncVerify, @"Expecting the number is %@.", kAsyncVerify);
     STSuccess();
-}*/
+}
 
 @end
