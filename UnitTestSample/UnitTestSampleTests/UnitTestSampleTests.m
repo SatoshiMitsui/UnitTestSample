@@ -51,12 +51,12 @@ static NSInteger const kTime = 5;
     NSLog(@"Normal Test Pass");
     STAssertTrue([_target testTrue], @"Assertion should be raised.");
 }
-
+/*
 - (void)test_Fail
 {
     NSLog(@"Normal Test Fail");
     STAssertTrue([_target testFalse], @"Assertion should be raised.");
-}
+}*/
 
 - (void)test_count_max
 {
@@ -78,7 +78,7 @@ static NSInteger const kTime = 5;
                          returnValue,
                          @"Should have returned the expected string.");
 }
-
+/*
 - (void)test_OCMock_Fail {
     id mock = [OCMockObject mockForClass:NSString.class];
     // setUp stub
@@ -89,7 +89,7 @@ static NSInteger const kTime = 5;
     STAssertEqualObjects(@"thisIsTheWrongValueToCheck",
                          returnValue,
                          @"Should have returned the expected string.");
-}
+}*/
 
 // OCMock and Async
 // --------------------------
@@ -185,11 +185,11 @@ static NSInteger const kTime = 5;
     [_mock verify];
     STSuccess();
 }
-
+/*
 - (void)myOtherSelector:(NSString* )value
 {
     STAssertEqualObjects(value, kAsyncVerify, @"Expecting the number is %@.", kAsyncVerify);
     STSuccess();
-}
+}*/
 
 @end
