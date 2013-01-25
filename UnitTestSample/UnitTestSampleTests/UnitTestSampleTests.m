@@ -78,7 +78,7 @@ static NSInteger const kTime = 5;
                          returnValue,
                          @"Should have returned the expected string.");
 }
-/*
+
 - (void)test_OCMock_Fail {
     id mock = [OCMockObject mockForClass:NSString.class];
     // setUp stub
@@ -86,10 +86,10 @@ static NSInteger const kTime = 5;
     // execute
     NSString *returnValue = [mock lowercaseString];
     // verify
-    STAssertEqualObjects(@"thisIsTheWrongValueToCheck",
+    STAssertEqualObjects(@"mocktest",
                          returnValue,
                          @"Should have returned the expected string.");
-}*/
+}
 
 // OCMock and Async
 // --------------------------
@@ -156,7 +156,7 @@ static NSInteger const kTime = 5;
 - (void)test_Selector_Fail_Async
 {
     [self performSelector:@selector(myOtherSelector:)
-               withObject:kAsyncInvalid
+               withObject:kAsyncValid
                afterDelay:kDelay];
 }
 
